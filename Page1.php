@@ -125,7 +125,7 @@ button:active .button_top {
         <br/> <br/> <br/>
         <div class="input-group">
 
-        <label class="label">NOM :</label>
+    <label class="label">NOM :</label>
     <input autocomplete="off" name="nom" class="input" type="text">
 
     <label class="label">PRENOMS :</label>
@@ -136,7 +136,7 @@ button:active .button_top {
 
     <label class="label">ADRESSE Email</label>
     <input autocomplete="off" name="email" id="Email" class="input" type="email">
-    </div>
+             </div>
         <br/>
         <br/>
         <br/>
@@ -145,5 +145,6 @@ button:active .button_top {
 </button>
 <p align="right"><u><a href="Page2.php">Liste des participants</a></u></p>
     </form>
+    
 </body>
 </html>
