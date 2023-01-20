@@ -136,7 +136,7 @@ button:active .button_top {
 
     <label class="label">ADRESSE Email</label>
     <input autocomplete="off" name="email" id="Email" class="input" type="email">
-    <div></div></div>
+    </div>
         <br/>
         <br/>
         <br/>
