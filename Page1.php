@@ -123,7 +123,7 @@ button:active .button_top {
     <form action="code.php" name="frm" method="POST" align="center" >
         <legend align="center"><u>ENREGISTREMENT DES PARTICIPANTS</u></legend>
         <br/> <br/> <br/>
-        <div class="input-group">
+        <Div class="input-group">
 
     <label class="label">NOM :</label>
     <input autocomplete="off" name="nom" class="input" type="text">
